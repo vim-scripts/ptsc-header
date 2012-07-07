@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4122
+
+Repository: http://darcsden.com/karl/vim-ptsc-header
+That repo will always have the last version. Try to use it instead.
+
+This plugin implements the Internet Draft about Plain Text/Source Code File Header as defined in http://tools.ietf.org/html/draft-swindell-ptsc-hdr-01. It's similar to Vim's modelines, but adapting them to the Internet Draft. It's intended to define what kind of indentation is used in the file. They are even more readable than Vim's modelines! But overall, they're a (not-yet-implemented) standard that doesn't depend on a concrete editor, unlike Vim's.
